@@ -1,5 +1,6 @@
-## Steps taken to set up the Arbitrum environment.
+# Week One Steps
+- I firsrt downloaded metamask
+- The v,zjvbs
+- acbbadvhjc,asdcbva
 
-## How I wrote, compiled, and deployed the contract.
-- hvosgl
-- dvsdjivnsj
+## He
